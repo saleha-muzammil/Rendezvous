@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454457955046",
+    "project_id": "rendezvous-f886b",
+    "storage_bucket": "rendezvous-f886b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454457955046:android:ce2f1b4fa039bfdbdb6127",
+        "android_client_info": {
+          "package_name": "com.manzil.rendezvous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454457955046-4cpu8chd9mgk9oj39sqtnco9gv65me3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaR6ZXzpj8ImbkXyC38tI9hpI0ZRTA1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454457955046-4cpu8chd9mgk9oj39sqtnco9gv65me3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
